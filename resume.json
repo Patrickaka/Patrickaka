@@ -1,1 +1,93 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"李靖林","email":"870963793@qq.com","mobile":"15321592396","github":"https://github.com/Patrickaka","zhihu":"","workExpYear":"一年","workPlace":"北京","positionTitle":"后端工程师"},"educationList":[{"edu_time":["2014.09.01","2018.06.30"],"school":"辽宁工业大学","major":"机械工程","academic_degree":"本科","dataIndex":0},{"edu_time":["2018.09.01","2021.06.30"],"school":"北京工业大学","major":"软件工程"}],"awardList":[{"award_info":"英语 CET4","award_time":"2019","dataIndex":0}],"workExpList":[{"work_time":"2017.03-2017.05","company_name":"万顺叫车","department_name":"后端开发部","work_desc":"1. 担任调度算法的研发\n2. 担任营销活动的研发","dataIndex":0}],"skillList":[{"skill_name":"JAVA","skill_desc":"JAVA","skill_level":89,"dataIndex":0},{"skill_name":"Mysql,Mongo,Redis","skill_level":80,"dataIndex":1,"skill_desc":"Mysql,Mongo,Redis"},{"skill_name":"RocketMq,Kafka","skill_desc":"RocketMq,Kafka","skill_level":80,"dataIndex":2},{"skill_name":"Spring","skill_level":80,"skill_desc":"SpringBoot"}],"projectList":[{"project_name":"万顺代驾","project_role":"代驾营销活动开发","project_time":"2021.08-2022.03","project_desc":"为顺风车和代驾业务线开发营销活动，促进用户增长","project_content":"1. 营销中通项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中","dataIndex":0},{"project_time":"2022.03-至今","project_name":"万顺网约车","project_role":"调度算法开发","project_desc":"为网约车业务线研发调度算法，提高调度效率","project_content":"1. 对目前的调度算法进行改造，提高调度效率 2.对不同的实际场景设计不同的调度算法","dataIndex":1}],"workList":[],"aboutme":{"aboutme_desc":"🌱 Focus on java 😈 能力项：沟通协调能力、执行力\n    自驱型后端工程师，一年大型产品开发经验，负责万顺叫车软件调度算法的研发工作，同时也负责过营销活动相关的研发工作。\n    目前是万顺叫车团队调度算法组的研发。\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+	"titleNameMap": {
+		"educationList": "教育背景",
+		"workExpList": "工作经历",
+		"projectList": "项目经历",
+		"skillList": "个人技能",
+		"awardList": "更多信息",
+		"workList": "个人作品",
+		"aboutme": "自我介绍"
+	},
+	"avatar": {
+		"hidden": true
+	},
+	"profile": {
+		"name": "李靖林",
+		"email": "870963793@qq.com",
+		"mobile": "15321592396",
+		"github": "https://github.com/Patrickaka",
+		"zhihu": "",
+		"workExpYear": "一年",
+		"workPlace": "北京",
+		"positionTitle": "后端工程师"
+	},
+	"educationList": [{
+		"edu_time": ["2014.09.01", "2018.06.30"],
+		"school": "辽宁工业大学",
+		"major": "机械工程",
+		"academic_degree": "本科",
+		"dataIndex": 0
+	}, {
+		"edu_time": ["2018.09.01", "2021.06.30"],
+		"school": "北京工业大学",
+		"major": "软件工程"
+	}],
+	"awardList": [{
+		"award_info": "英语 CET4",
+		"award_time": "2019",
+		"dataIndex": 0
+	}],
+	"workExpList": [{
+		 "work_time": [
+        "2021.08",
+        null
+      ],
+		"company_name": "万顺叫车",
+		"department_name": "后端开发部",
+		"work_desc": "1. 担任调度算法的研发\n2. 担任营销活动的研发",
+		"dataIndex": 0
+	}],
+	"skillList": [{
+		"skill_name": "JAVA",
+		"skill_desc": "JAVA",
+		"skill_level": 89,
+		"dataIndex": 0
+	}, {
+		"skill_name": "Mysql,Mongo,Redis",
+		"skill_level": 80,
+		"dataIndex": 1,
+		"skill_desc": "Mysql,Mongo,Redis"
+	}, {
+		"skill_name": "RocketMq,Kafka",
+		"skill_desc": "RocketMq,Kafka",
+		"skill_level": 80,
+		"dataIndex": 2
+	}, {
+		"skill_name": "Spring",
+		"skill_level": 80,
+		"skill_desc": "SpringBoot"
+	}],
+	"projectList": [{
+		"project_name": "万顺代驾",
+		"project_role": "代驾营销活动开发",
+		"project_time": "2021.08-2022.03",
+		"project_desc": "为顺风车和代驾业务线开发营销活动，促进用户增长",
+		"project_content": "1. 营销中通项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中",
+		"dataIndex": 0
+	}, {
+		"project_time": "2022.03-至今",
+		"project_name": "万顺网约车",
+		"project_role": "调度算法开发",
+		"project_desc": "为网约车业务线研发调度算法，提高调度效率",
+		"project_content": "1. 对目前的调度算法进行改造，提高调度效率 2.对不同的实际场景设计不同的调度算法",
+		"dataIndex": 1
+	}],
+	"workList": [],
+	"aboutme": {
+		"aboutme_desc": "🌱 Focus on java 😈 能力项：沟通协调能力、执行力\n    自驱型后端工程师，一年大型产品开发经验，负责万顺叫车软件调度算法的研发工作，同时也负责过营销活动相关的研发工作。\n    目前是万顺叫车团队调度算法组的研发。\n    "
+	},
+	"theme": {
+		"color": "#2f5785",
+		"tagColor": "#8bc34a"
+	}
+}
